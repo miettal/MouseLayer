@@ -3,4 +3,8 @@
     <Project Path="src/MouseLayer.App/MouseLayer.App.csproj" />
     <Project Path="src/MouseLayer.Core/MouseLayer.Core.csproj" />
   </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/MouseLayer.Core.IntegrationTests/MouseLayer.Core.IntegrationTests.csproj" />
+    <Project Path="tests/MouseLayer.Core.Tests/MouseLayer.Core.Tests.csproj" />
+  </Folder>
 </Solution>
