@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MouseLayer.App/MouseLayer.App.csproj" />
+    <Project Path="src/MouseLayer.Core/MouseLayer.Core.csproj" />
+  </Folder>
+</Solution>
